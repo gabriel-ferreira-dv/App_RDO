@@ -1,0 +1,1 @@
+-- Roda só nos bancos de teste dos PRs, depois das migrations. Vazio por enquanto.
